@@ -21,13 +21,7 @@ An AI-powered full-stack platform that helps Indian entrepreneurs navigate compa
 
 ### 🌐 Live Demo
 
-🔗 **Application:** https://your-live-link.vercel.app
-
-### 🔐 Admin Demo
-
-**Email:** test@example.com
-
-**Password:** **\*\*\*\***
+🔗 **Application:** https://startup-naviagtor-thirdeye-1.onrender.com
 
 </div>
 
