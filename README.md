@@ -85,7 +85,7 @@ The application combines:
 | Explore               | Admin Dashboard     |
 | --------------------- | ------------------- |
 | <img width="940" height="423" alt="Screenshot 2026-07-18 113604" src="https://github.com/user-attachments/assets/bbc62b73-3334-46f9-bb02-d32a080afe3b" />
- | ![Uploading Screenshot 2026-07-18 113536.png…]()
+ | <img width="881" height="427" alt="Screenshot 2026-07-18 113536" src="https://github.com/user-attachments/assets/1105daf4-7e8b-4bc1-99e4-509ce699f299" />
 
 
 ---
