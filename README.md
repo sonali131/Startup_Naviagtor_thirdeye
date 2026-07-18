@@ -77,11 +77,16 @@ The application combines:
 
 | Home               | AI Search            |
 | ------------------ | -------------------- |
-| ![](docs/home.png) | ![](docs/search.png) |
+|<img width="955" height="401" alt="Screenshot 2026-07-18 113356" src="https://github.com/user-attachments/assets/acab74b8-8ecd-407d-894d-e90c3725e663" />
+ | <img width="922" height="429" alt="Screenshot 2026-07-18 113508" src="https://github.com/user-attachments/assets/8e0a42eb-e5c8-46fc-bf08-a8720495f452" />
+ |<img width="706" height="424" alt="Screenshot 2026-07-18 113452" src="https://github.com/user-attachments/assets/ff9b939f-6cf2-4c5e-a79a-2c6672592133" />
+
 
 | Explore               | Admin Dashboard     |
 | --------------------- | ------------------- |
-| ![](docs/explore.png) | ![](docs/admin.png) |
+| <img width="940" height="423" alt="Screenshot 2026-07-18 113604" src="https://github.com/user-attachments/assets/bbc62b73-3334-46f9-bb02-d32a080afe3b" />
+ | ![Uploading Screenshot 2026-07-18 113536.png…]()
+
 
 ---
 
